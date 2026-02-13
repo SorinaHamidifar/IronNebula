@@ -10,7 +10,7 @@
 Main entry point for FusionForge.
 """
 
-from import IdeaStudio
+from co import IdeaStudio
 from core.framework import CoreFramework
 
 
