@@ -1,5 +1,5 @@
 # ================================
-# Project: FusionForge IdeaStudio.
+# Project: FusionForge IdeaStu
 # Description:
 # A fusion of creativity and toughness—perfect for robust experiments,
 # powerful prototypes, and evolving frameworks.
