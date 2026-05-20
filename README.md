@@ -16,7 +16,7 @@ from core.framework import CoreFramework
 
 def run():
     print("🔥 FusionForge Initialized")
-    print("🎨 Creativity | 🛡️ Toughness | 🧩 Evolving Framewor\n")
+    print("🎨 Creativity | 🛡️ Toughness | 🧩 Evolving Frameworks\n")
 
     studio = IdeaStudio()
     framework = CoreFramework()
