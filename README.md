@@ -1,7 +1,7 @@
 # ================================
 # Project: FusionForge 
 # Description:
-# A fusion of creativity and toughness—per for robust experiments,
+# A fusion of creativity and toughness—perfect for robust experiments,
 # powerful prototypes, and evolving frameworks.
 # ================================
 
